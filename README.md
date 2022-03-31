@@ -1,4 +1,4 @@
-##Projeto de ES6 e Higher Order Functions! :penguin:
+## Projeto de ES6 e Higher Order Functions! :penguin:
 
 Foram implementadas várias funções para atender aos requisitos propostos de forma educativa. Os dados manipulados foi um objeto com diversas informações de um Zoológico. :bear:
 
